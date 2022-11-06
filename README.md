@@ -1,3 +1,3 @@
 # Whatever
 
-Text added in github
+Text removed in vs code
